@@ -336,7 +336,7 @@ class _TicTacToeScreenState extends State<TicTacToeScreen> {
                         },
                   child: Text(_waitingForAnotherUser
                       ? "Waiting For Another Player"
-                      : 'Start New Game'),
+                      : 'Start New Game'),randibaaz
                 ),
                 const SizedBox(
                   height: 20,
