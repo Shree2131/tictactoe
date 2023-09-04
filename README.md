@@ -1,5 +1,4 @@
-## Credit:
-First I want to thank [OriginalRepo](https://github.com/qubeena07/MyWidgets/blob/main/lib/screens/tic_tac_toe_screen.dart), from which I got the TicTacToe game code. The original game was single-user TicTacToe, from which I was inspired to make multi-user TicTacToe. The above repo contains many other exciting codings, so make sure to watch the repo, follow [qubeena07](https://github.com/qubeena07/), and give the repo a star.
+
 
 # Multiplayer TicTacToe
 Flutter + Local Websocket + ❤️ = Multiplayer TicTacToe Game for Android and Windows
@@ -17,6 +16,6 @@ So make sure to run the APK and review the code, and give me some feedback 😊.
 
 **Warning: Both devices must be connected to the same WIFI, else the client cannot connect to the server while scanning the QR.**
 
-APK: [Touch Me!](https://drive.google.com/drive/u/0/folders/1j2jfecUFIdPj8l5yBlbCEIjkxHZEPqk6)
+APK: [Touch Me!](https://drive.google.com/drive/folders/1BmUWSLUrKbKar8tHN50VMBa7fQ0QhaUC)
 
-LinkedIn Demonstration: [Touch Me!](https://www.linkedin.com/posts/aaradhya-nepal-95006b247_flutter-flutterdeveloper-fluttercommunity-activity-7097454259369123840-_vAt?utm_source=share&utm_medium=member_desktop)
+
